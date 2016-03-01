@@ -6,7 +6,7 @@ Contributions, feedback and suggestions are very welcome.
 
 1. Fork it
 2. Clone the fork (`git clone git@github.com:USERNAME/skanken.git`)
-3. Add the upstream repository (`git remote add upstream git@github.com:pbl/skanken.git`, use git `remote -v to verify`)
+3. Add the upstream repository (`git remote add upstream git@github.com:pbl/skanken.git`, use `git remote -v` to verify)
 
 ## Contribute
 
@@ -17,5 +17,5 @@ Contributions, feedback and suggestions are very welcome.
 ## Syncing the fork
 
 1. `git fetch upstream`
-2. `git merge upsream/master`
+2. `git merge upstream/master`
 3. `git push`
